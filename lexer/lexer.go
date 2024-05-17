@@ -1,8 +1,6 @@
 package lexer
 
-import (
-	"interpreter-monkey/token"
-)
+import "github.com/sheppieboy/LL1-Parser/token"
 
 
 type Lexer struct{

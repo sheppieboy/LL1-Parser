@@ -2,8 +2,9 @@ package ast
 
 import (
 	"bytes"
-	"interpreter-monkey/token"
 	"strings"
+
+	"github.com/sheppieboy/LL1-Parser/token"
 )
 
 
